@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZakatGold</string>
+    <string name="about">About</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright &#169; 2025 Natasya</string>
+    <string name="name">NAME: NUR ALEEYA NATASYA BINTI MOHD HISHAMUDDIN</string>
+    <string name="group">GROUP: RCDCS2515A</string>
+    <string name="id">STUDENT ID: 2023415142</string>
+    <string name="course">PROGRAMME CODE: CS251</string>
+    <string name="link"><a href="https://github.com">Source Code Link</a></string>
+</resources>
